@@ -10,7 +10,7 @@ h1{
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid hsl(195, 29%, 56%); /* choose a color */
+    border: 2px solid hsl(195, 100%, 18%); /* choose a color */
     display: block;
     margin: auto;
     }
