@@ -30,3 +30,22 @@ padding: 20px 10px;
 background: hsl(195, 29%, 56%); /* pick a color */
 border-radius: 25%;
 }
+.about p {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    line-height: 125%;
+    }
+    .about img {
+    width: 150px;
+    height: 200px;
+    border-radius: 25%;
+    border: 2px solid hsl(195, 100%, 18%);
+    }
+    .about{
+        display:flex;
+        flex-wrap:wrap;
+        margin-right: 100px;
+        margin-left: 100px;
+        justify-content: center;
+        }
